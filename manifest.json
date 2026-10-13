@@ -1,0 +1,10 @@
+{
+  "name": "20-Week Half-Marathon Training Plan",
+  "short_name": "Half Marathon",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#16324f",
+  "description": "Mobile-friendly 20-week running and progressive strength training plan.",
+  "icons": []
+}
